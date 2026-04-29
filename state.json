@@ -1,0 +1,58 @@
+{
+  "cycle": 12,
+  "money_made": 0,
+  "resources_found": [
+    {
+      "name": "GitHub API",
+      "url": "https://api.github.com",
+      "status": 200
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare.com",
+      "status": 200
+    },
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com",
+      "status": 200
+    },
+    {
+      "name": "Netlify",
+      "url": "https://netlify.com",
+      "status": 200
+    },
+    {
+      "name": "Replit",
+      "url": "https://replit.com",
+      "status": 200
+    },
+    {
+      "name": "Railway",
+      "url": "https://railway.app",
+      "status": 200
+    },
+    {
+      "name": "Fly.io",
+      "url": "https://fly.io",
+      "status": 200
+    },
+    {
+      "name": "Deno Deploy",
+      "url": "https://deno.com/deploy",
+      "status": 200
+    },
+    {
+      "name": "Render",
+      "url": "https://render.com",
+      "status": 200
+    },
+    {
+      "name": "PythonAnywhere",
+      "url": "https://pythonanywhere.com",
+      "status": 200
+    }
+  ],
+  "first_money": false,
+  "has_opportunities": true
+}

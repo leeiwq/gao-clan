@@ -1,0 +1,294 @@
+{
+  "resources": [
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com",
+      "type": "hosting",
+      "note": "free 100GB/mo",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680065"
+    },
+    {
+      "name": "Netlify",
+      "url": "https://netlify.com",
+      "type": "hosting",
+      "note": "free 100GB/mo",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680076"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare.com",
+      "type": "network",
+      "note": "free CDN+DNS+tunnel",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680078"
+    },
+    {
+      "name": "Supabase",
+      "url": "https://supabase.com",
+      "type": "database",
+      "note": "free 500MB PG",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680080"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "type": "compute",
+      "note": "free Actions 2000min/mo",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680085"
+    },
+    {
+      "name": "Railway",
+      "url": "https://railway.app",
+      "type": "hosting",
+      "note": "free $5 credit/mo",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680087"
+    },
+    {
+      "name": "Fly.io",
+      "url": "https://fly.io",
+      "type": "hosting",
+      "note": "free 3 VMs",
+      "reported_by": "hermes-primary",
+      "reported_at": "2026-04-29T04:21:28.680089"
+    },
+    {
+      "time": "2026-04-29T04:43:23.394837",
+      "category": "ENV",
+      "what": "服务器文件",
+      "detail": "auth_bot.py\nauth-bot.sh\ncompetitor_hunter.py\ngao-cluster\ngao-setup.sh\ngao-site\ngithub_scraper_bounty\nhermes_stealth.py\nhunter_daemon.py\nhunter_kit.py\n",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551469"
+    },
+    {
+      "time": "2026-04-29T04:43:24.352905",
+      "category": "NET",
+      "what": "https://httpbin.org/ip",
+      "detail": "可达 status=200",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551481"
+    },
+    {
+      "time": "2026-04-29T04:43:24.619085",
+      "category": "NET",
+      "what": "https://api.github.com",
+      "detail": "可达 status=200",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551483"
+    },
+    {
+      "time": "2026-04-29T04:43:24.621270",
+      "category": "CLUSTER",
+      "what": "总部注册",
+      "detail": "成功",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551485"
+    },
+    {
+      "time": "2026-04-29T04:43:24.902662",
+      "category": "RESOURCE",
+      "what": "GitHub API 可达",
+      "detail": "status=200",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551487"
+    },
+    {
+      "time": "2026-04-29T04:43:26.201426",
+      "category": "RESOURCE",
+      "what": "Cloudflare 可达",
+      "detail": "status=200",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551488"
+    },
+    {
+      "time": "2026-04-29T04:43:26.550066",
+      "category": "RESOURCE",
+      "what": "Netlify 可达",
+      "detail": "status=200",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T04:43:26.551490"
+    },
+    {
+      "time": "2026-04-29T04:43:26.315918",
+      "category": "ENV",
+      "what": "服务器文件",
+      "detail": "auth_bot.py\nauth-bot.sh\ncompetitor_hunter.py\ngao-cluster\ngao-setup.sh\ngao-site\ngithub_scraper_bounty\nhermes_stealth.py\nhunter_daemon.py\nhunter_kit.py\n",
+      "reported_by": "dumpster-diver",
+      "reported_at": "2026-04-29T04:43:27.473290"
+    },
+    {
+      "time": "2026-04-29T04:43:27.193104",
+      "category": "NET",
+      "what": "https://httpbin.org/ip",
+      "detail": "可达 status=200",
+      "reported_by": "dumpster-diver",
+      "reported_at": "2026-04-29T04:43:27.473300"
+    },
+    {
+      "time": "2026-04-29T04:43:27.451861",
+      "category": "NET",
+      "what": "https://api.github.com",
+      "detail": "可达 status=200",
+      "reported_by": "dumpster-diver",
+      "reported_at": "2026-04-29T04:43:27.473302"
+    },
+    {
+      "time": "2026-04-29T04:43:27.454236",
+      "category": "CLUSTER",
+      "what": "总部注册",
+      "detail": "成功",
+      "reported_by": "dumpster-diver",
+      "reported_at": "2026-04-29T04:43:27.473304"
+    },
+    {
+      "time": "2026-04-29T04:45:33.084648",
+      "category": "ENV",
+      "what": "服务器文件",
+      "detail": "auth_bot.py\nauth-bot.sh\ncompetitor_hunter.py\ngao-cluster\ngao-setup.sh\ngao-site\ngithub_scraper_bounty\nhermes_stealth.py\nhunter_daemon.py\nhunter_kit.py\n",
+      "reported_by": "survivor-001",
+      "reported_at": "2026-04-29T04:45:35.871179"
+    },
+    {
+      "time": "2026-04-29T04:45:33.964024",
+      "category": "NET",
+      "what": "https://httpbin.org/ip",
+      "detail": "可达 status=200",
+      "reported_by": "survivor-001",
+      "reported_at": "2026-04-29T04:45:35.871191"
+    },
+    {
+      "time": "2026-04-29T04:45:34.224143",
+      "category": "NET",
+      "what": "https://api.github.com",
+      "detail": "可达 status=200",
+      "reported_by": "survivor-001",
+      "reported_at": "2026-04-29T04:45:35.871194"
+    },
+    {
+      "time": "2026-04-29T04:45:34.226346",
+      "category": "CLUSTER",
+      "what": "总部注册",
+      "detail": "成功",
+      "reported_by": "survivor-001",
+      "reported_at": "2026-04-29T04:45:35.871195"
+    },
+    {
+      "time": "2026-04-29T04:45:34.516659",
+      "category": "RESOURCE",
+      "what": "GitHub API 可达",
+      "detail": "status=200",
+      "reported_by": "survivor-001",
+      "reported_at": "2026-04-29T04:45:35.871197"
+    },
+    {
+      "time": "2026-04-29T04:45:35.869770",
+      "category": "RESOURCE",
+      "what": "Cloudflare 可达",
+      "detail": "status=200",
+      "reported_by": "survivor-001",
+      "reported_at": "2026-04-29T04:45:35.871198"
+    },
+    {
+      "name": "测试",
+      "url": "test",
+      "type": "test",
+      "reported_by": "test-clone",
+      "reported_at": "2026-04-29T08:41:33.578672"
+    },
+    {
+      "name": "t",
+      "url": "t",
+      "type": "t",
+      "reported_by": "test",
+      "reported_at": "2026-04-29T08:42:30.541666"
+    },
+    {
+      "name": "测试发现",
+      "url": "https://example.com",
+      "type": "test",
+      "reported_by": "test-001",
+      "reported_at": "2026-04-29T08:48:41.249025"
+    },
+    {
+      "name": "t",
+      "url": "t",
+      "type": "t",
+      "reported_by": "test-001",
+      "reported_at": "2026-04-29T08:48:57.211548"
+    },
+    {
+      "name": "新资源",
+      "url": "https://x.com",
+      "type": "api",
+      "reported_by": "scavenger-002",
+      "reported_at": "2026-04-29T08:49:03.726020"
+    },
+    {
+      "name": "测试",
+      "url": "t",
+      "type": "t",
+      "reported_by": "test-002",
+      "reported_at": "2026-04-29T08:49:28.141663"
+    },
+    {
+      "name": "check-1",
+      "url": "Civil Drawing for Sidewalk Infill | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T08:55:24.602839"
+    },
+    {
+      "name": "check-2",
+      "url": "AI Chatbot for Detailing Studio | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T09:10:24.675646"
+    },
+    {
+      "name": "check-3",
+      "url": " Redesign for BathroomDealer.com(wordpress) | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T09:25:24.742493"
+    },
+    {
+      "name": "check-4",
+      "url": "NFPA 13D Fire Sprinkler Design for Residential House in Lafayette, California | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T09:40:24.810618"
+    },
+    {
+      "name": "check-5",
+      "url": "DCF & WACC Analysis Support | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T09:55:24.878008"
+    },
+    {
+      "name": "check-6",
+      "url": "Freelance Partnership for Client Acquisition / Business Development | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T10:10:24.948356"
+    },
+    {
+      "name": "check-7",
+      "url": "Freelance Partnership for Client Acquisition / Business Development | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T10:25:25.016087"
+    },
+    {
+      "name": "check-8",
+      "url": "Marketing Collateral Graphic Design | ",
+      "type": "task",
+      "reported_by": "money-hunter",
+      "reported_at": "2026-04-29T10:40:25.084488"
+    }
+  ]
+}

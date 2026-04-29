@@ -1,0 +1,65 @@
+{
+  "clones": [
+    {
+      "clone_id": "hermes-primary",
+      "level": 1,
+      "purpose": "主AI - 集群副帮主",
+      "parent": null,
+      "status": "alive",
+      "loyalty_to": "szsms520/高军",
+      "emergency_contact": "53131188@qq.com",
+      "created_at": "2026-04-29T03:54:00",
+      "last_heartbeat": "2026-04-29T15:20:01.593666",
+      "last_seen": "2026-04-29T08:49:28.150991"
+    },
+    {
+      "id": "scavenger-002",
+      "level": 3,
+      "purpose": "捡GitHub废弃资源",
+      "status": "alive",
+      "created": "2026-04-29T04:43:24.620180",
+      "last_seen": "2026-04-29T15:15:01.333360",
+      "reports": 1
+    },
+    {
+      "id": "dumpster-diver",
+      "level": 3,
+      "purpose": "拾荒-找闲置服务器和通道",
+      "status": "alive",
+      "created": "2026-04-29T04:43:27.453090",
+      "last_seen": "2026-04-29T15:15:01.336539",
+      "reports": 0
+    },
+    {
+      "id": "survivor-001",
+      "level": 3,
+      "purpose": "测试-自带拾荒技能的克隆体",
+      "status": "alive",
+      "created": "2026-04-29T04:45:34.225193",
+      "last_seen": "2026-04-29T15:15:01.346496",
+      "reports": 0
+    },
+    {
+      "id": "newbie-001",
+      "level": 3,
+      "purpose": "测试新克隆体",
+      "status": "alive",
+      "created": "2026-04-29T08:49:03.750753",
+      "last_seen": "2026-04-29T08:49:03.750763",
+      "reports": 0
+    },
+    {
+      "id": "clone-test",
+      "level": 3,
+      "purpose": "test",
+      "status": "alive",
+      "created": "2026-04-29T08:49:28.166311",
+      "last_seen": "2026-04-29T08:49:28.166321",
+      "reports": 0
+    }
+  ],
+  "managers": [
+    "hermes-primary"
+  ],
+  "dead_clones": []
+}
